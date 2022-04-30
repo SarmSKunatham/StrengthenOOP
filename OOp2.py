@@ -19,8 +19,8 @@ class BankAccount():
     def display(self):
         print(f"Account Detail \n\tAccount Number: {self.accountNumber}\n\tAccount Name: {self.name}\n\tBalance: {self.balance}")
 
-kplus = BankAccount(3, "Sarm", 10000)
-kplus.Deposit(1000)
-kplus.Withdrawal(10)
-kplus.bankFees()
-kplus.display()
+# kplus = BankAccount(3, "Sarm", 10000)
+# kplus.Deposit(1000)
+# kplus.Withdrawal(10)
+# kplus.bankFees()
+# kplus.display()
